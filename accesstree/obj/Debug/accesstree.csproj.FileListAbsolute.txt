@@ -1,0 +1,6 @@
+D:\prog\Some\accesstree\accesstree\bin\Debug\accesstree.exe.config
+D:\prog\Some\accesstree\accesstree\obj\Debug\accesstree.csprojResolveAssemblyReference.cache
+D:\prog\Some\accesstree\accesstree\bin\Debug\accesstree.exe
+D:\prog\Some\accesstree\accesstree\bin\Debug\accesstree.pdb
+D:\prog\Some\accesstree\accesstree\obj\Debug\accesstree.exe
+D:\prog\Some\accesstree\accesstree\obj\Debug\accesstree.pdb
